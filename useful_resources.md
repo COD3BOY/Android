@@ -1,3 +1,44 @@
 # Useful Resources 
 
-Have questions? Good! Before you ask someone, head to http://stackoverflow.com/questions/tagged/android, if you are a beginner 90% of the time your questions will be already answered, if not, feel free to ask questions, there are a bunch of awesome developers there. 
+Offical Android Developers Blog http://android-developers.blogspot.in/
+
+---
+Offical Android Developers G+ community https://plus.google.com/communities/105153134372062985968/stream/7db53d71-5bab-46fd-a3f2-a321fee334af
+
+---
+Official Android Developers YouTube channel https://www.youtube.com/user/androiddevelopers
+
+---
+Have questions? Good! Before you ask someone, head to 
+
+http://stackoverflow.com/questions/tagged/android
+
+if you are a beginner 90% of the time your questions will be already answered, if not, feel free to ask questions, there are a bunch of awesome developers there. 
+
+---
+
+Find a local developer group such as [Google Developer Group Cochin](developers.google.com/groups/chapter/106046004645175854179/), to know more about what local developers are doing and facilitate community learning. 
+
+You can find the one near you here https://developers.google.com/groups/directory/
+
+---
+Blogs worth following : 
+* https://commonsware.com/Android/
+* http://www.curious-creature.com/category/android/
+* http://cyrilmottier.com/
+* http://www.androidhive.info/
+* http://androidweekly.net/
+* http://www.vogella.com/tutorials/Android/article.html
+
+
+
+---
+AndroidDev - Articles/libraries/tools/resources G+ collection by [Paresh Mayani](https://plus.google.com/+PareshMayani/posts). 
+
+https://plus.google.com/collection/w9czY
+
+---
+
+Non-Tech Resources 
+* Icons for your app https://www.iconfinder.com/
+* Android Cheatsheet for your Graphic Designer http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/
