@@ -1,18 +1,12 @@
 # Useful Resources 
 
-Offical Android Developers Blog http://android-developers.blogspot.in/
+Offical Android Listings
 
----
-Offical Android Developers G+ community https://plus.google.com/communities/105153134372062985968/stream/7db53d71-5bab-46fd-a3f2-a321fee334af
+* [Blog](http://android-developers.blogspot.in/)
+* [Android Developers G+ community]( https://plus.google.com/communities/105153134372062985968/stream/7db53d71-5bab-46fd-a3f2-a321fee334af)
+* [Android Developers YouTube channel]( https://www.youtube.com/user/androiddevelopers)
+* [Google IO android app](https://github.com/google/iosched) is open source and serve as a reference app for Android best practice.
 
----
-Official Android Developers YouTube channel https://www.youtube.com/user/androiddevelopers
-
----
-
-Official Google IO android app is open source and serve as a reference app for Android best practices https://github.com/google/iosched
-
----
 Have questions? Good! Before you ask someone, head to 
 
 http://stackoverflow.com/questions/tagged/android
@@ -37,12 +31,10 @@ Blogs worth following :
 
 
 ---
-AndroidDev - Articles/libraries/tools/resources G+ collection by [Paresh Mayani](https://plus.google.com/+PareshMayani/posts). 
-
-https://plus.google.com/collection/w9czY
+[AndroidDev - Articles/libraries/tools/resources G+ collection](https://plus.google.com/collection/w9czY) by [Paresh Mayani](https://plus.google.com/+PareshMayani/posts). 
 
 ---
 
 Non-Tech Resources 
 * Icons for your app https://www.iconfinder.com/
-* Android Cheatsheet for your Graphic Designer http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/
+* [Android Cheatsheet for your Graphic Designer]( http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/)
