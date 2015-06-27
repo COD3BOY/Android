@@ -1,3 +1,6 @@
 # Before Starting
 
-To get started with Android you need a strong Java base.I'd suggest Head Fist Java or Introduction to java to get started.
+To get started with Android you need a strong Java base. You can rely on 
+1. Head First Java http://www.headfirstlabs.com/books/hfjava/
+
+2. Introduction to java on Udacity https://www.udacity.com/course/intro-to-java-programming--cs046
