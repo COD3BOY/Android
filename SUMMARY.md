@@ -4,5 +4,5 @@
 * [Before Starting](chapter1.md)
 * [Get Started with Android](get_started_with_android.md)
 * [Libraries](libraries.md)
-* Useful Resources
+* [Useful Resources](useful_resources.md)
 
