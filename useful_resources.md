@@ -9,6 +9,10 @@ Offical Android Developers G+ community https://plus.google.com/communities/1051
 Official Android Developers YouTube channel https://www.youtube.com/user/androiddevelopers
 
 ---
+
+Official Google IO android app is open source and serve as a reference app for Android best practices https://github.com/google/iosched
+
+---
 Have questions? Good! Before you ask someone, head to 
 
 http://stackoverflow.com/questions/tagged/android
