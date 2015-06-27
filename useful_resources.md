@@ -1,12 +1,13 @@
 # Useful Resources 
 
-Offical Android Listings
+Offical Android Listings :
 
 * [Blog](http://android-developers.blogspot.in/)
 * [Android Developers G+ community]( https://plus.google.com/communities/105153134372062985968/stream/7db53d71-5bab-46fd-a3f2-a321fee334af)
 * [Android Developers YouTube channel]( https://www.youtube.com/user/androiddevelopers)
 * [Google IO android app](https://github.com/google/iosched) is open source and serve as a reference app for Android best practice.
 
+---
 Have questions? Good! Before you ask someone, head to 
 
 http://stackoverflow.com/questions/tagged/android
