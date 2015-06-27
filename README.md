@@ -1,4 +1,4 @@
-My Awesome Book
+Android Development : zero to  one
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book is intended for developers with some programming knowledge and wanted to started with Android development. 
