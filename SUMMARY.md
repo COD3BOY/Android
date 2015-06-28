@@ -7,5 +7,5 @@
 * [Useful Resources](useful_resources.md)
 * [Articles](articles.md)
 * [Tutorials](tutorials.md)
-* Contributors
+* [Contributors](contributors.md)
 
