@@ -6,7 +6,7 @@
 * [Books](books.md)
 * [Libraries](libraries.md)
 * [Useful Resources](useful_resources.md)
-* Tools
+* [Tools](tools.md)
 * [Articles](articles.md)
 * [Tutorials](tutorials.md)
 * [Contributors](contributors.md)
