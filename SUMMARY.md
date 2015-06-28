@@ -6,4 +6,5 @@
 * [Libraries](libraries.md)
 * [Useful Resources](useful_resources.md)
 * [Articles](articles.md)
+* Tutorials
 
