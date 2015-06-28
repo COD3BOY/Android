@@ -1,3 +1,3 @@
 #Articles 
 
-Here we will be adding interesting articles from the Android developer community.
+* [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) Article series by Chet Haase, Senior Software Engineer at Google. 
