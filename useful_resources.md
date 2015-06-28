@@ -25,9 +25,7 @@ Blogs worth following :
 * https://commonsware.com/Android/
 * http://www.curious-creature.com/category/android/
 * http://cyrilmottier.com/
-* http://www.androidhive.info/
 * http://androidweekly.net/
-* http://www.vogella.com/tutorials/Android/article.html
 
 
 
