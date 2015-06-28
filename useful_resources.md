@@ -1,6 +1,6 @@
 # Useful Resources 
 
-**Official Android Listings:**
+**Official Android links:**
 
 * [Blog](http://android-developers.blogspot.in/)
 * [Android Developers G+ community]( https://plus.google.com/communities/105153134372062985968/stream/7db53d71-5bab-46fd-a3f2-a321fee334af)
