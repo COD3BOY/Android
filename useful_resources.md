@@ -29,13 +29,20 @@ You can find the one near you here https://developers.google.com/groups/director
 * http://cyrilmottier.com/
 * http://androidweekly.net/
 
-
-
 ---
 
 **Follow #AndroidDev tag over Google+**
 
 * [AndroidDev - Articles/libraries/tools/resources G+ collection](https://plus.google.com/collection/w9czY) by [Paresh Mayani](https://plus.google.com/+PareshMayani/posts). 
+
+---
+
+**Learn UI Patterns and UI niceties:** 
+
+* http://www.androiduipatterns.com/ (by [+Juhani Lehtimäki](https://plus.google.com/+JuhaniLehtimäki/))
+* http://www.android-app-patterns.com
+* http://androidniceties.tumblr.com/
+* http://www.androidviews.net/
 
 ---
 
