@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Before Starting](chapter1.md)
 * [Get Started with Android](get_started_with_android.md)
-* Books
+* [Books](books.md)
 * [Libraries](libraries.md)
 * [Useful Resources](useful_resources.md)
 * [Articles](articles.md)
