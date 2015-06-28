@@ -22,7 +22,6 @@ You can find the one near you here https://developers.google.com/groups/director
 
 ---
 Blogs worth following : 
-* https://commonsware.com/Android/
 * http://www.curious-creature.com/category/android/
 * http://cyrilmottier.com/
 * http://androidweekly.net/
