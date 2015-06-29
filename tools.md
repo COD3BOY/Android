@@ -8,3 +8,4 @@ Useful Tools
 * [Gradle please](http://gradleplease.appspot.com/)
 * [JSON Validator](http://jsonlint.com/)
 * [TinyPNG](https://tinypng.com/) for image compression.
+* [Device art generator](http://developer.android.com/distribute/tools/promote/device-art.html) The device art generator enables you to quickly wrap app screenshots in device artwork. This provides better visual context for your app screenshots on your website or in other promotional materials. 
