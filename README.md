@@ -9,4 +9,4 @@ Conceived by [Sanjay Nediyara](http://www.sanjy.co), a developer with more than 
 [Reach out to me](mailto:sn@sanjy.co) or [tweet](https://twitter.com/cod3boy) if you have some suggestions or like to discuss an interesting project. 
 
 
-*THIS IS NOT AN ANDROID DEVELOPMENT COURSE BOOK. THIS IS A COLLECTION OF RESOURCES WHICH ME AND MY FRIENDS FOUND USEFUL. *
+***THIS IS NOT AN ANDROID DEVELOPMENT COURSE BOOK. THIS IS A COLLECTION OF RESOURCES WHICH ME AND MY FRIENDS FOUND USEFUL.***
