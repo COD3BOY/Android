@@ -9,4 +9,4 @@ There are plenty of books available for learning android application development
 
 #Articles 
 
-* [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) Article series by Chet Haase, Senior Software Engineer at Google. 
+* [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) Article series by Chet Haase, Senior Software Engineer at Google. [ 29 MAY 2015 ]
