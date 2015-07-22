@@ -3,10 +3,11 @@ Tutorials
 
 **Websites having tutorials with code samples:**
 
+* http://technotalkative.com/
 * http://www.androidhive.info/
 * http://www.vogella.com/tutorials/Android/article.html
 * https://commonsware.com/Android/
-* http://technotalkative.com/
+* http://javapapers.com/
 
 ---
 **Video tutorials:**
