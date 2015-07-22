@@ -8,4 +8,5 @@
 * [Tools](tools.md)
 * [Tutorials](tutorials.md)
 * [Contributors](contributors.md)
+* Licensed as CC-BY
 
