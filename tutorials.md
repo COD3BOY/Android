@@ -8,6 +8,7 @@ Tutorials
 * http://www.vogella.com/tutorials/Android/article.html
 * https://commonsware.com/Android/
 * http://javapapers.com/
+* http://flavienlaurent.com/
 
 ---
 **Video tutorials:**
