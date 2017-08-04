@@ -1,6 +1,6 @@
-{ "gitbook": ">=2.0.0" }
+{ "gitbook": ">=2.0.0" 
 
-{
+
     "plugins": ["adsense"],
     "pluginsConfig": {
       "adsense": {
